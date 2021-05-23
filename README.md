@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Roboto'", sans-serif;>Welcome!</h3> 
+<h3 style="font-family: 'Roboto'; font-weight: 100;" , sans-serif;>Welcome!</h3> 
 
 
 <a href="https://www.linkedin.com/in/anthonyperniah/">
@@ -23,10 +23,9 @@
 
 <br>
 
-<h2 style="font-family: 'Roboto'; font-weight: 100;" >I'm <a>[Anthony Pernia](https://anthonyperniah.github.io/)</a>, a passionate self-taught Developer, Data Architect, and Cloud Computing Enthusiast.
+I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer, Data Architect, and Cloud Computing Enthusiast.
 I am passionate about building things with code that were previously considered impossible.
 Also always try to learn new things always and share them with the Open Source community, as I have learned a lot from them.
-</h2>
 <br>
 
 - 🤓 Ask me anything, if I don't know, and I can, we will investigate together.
