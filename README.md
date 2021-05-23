@@ -1,6 +1,6 @@
 <div align="center">
 
-### Welcome! <img align="center" src="https://media.giphy.com/media/pYWyPf8dQWmGI/source.gif" width="60px">
+### Welcome! <img align="center" src="https://media.giphy.com/media/gKNiW6zL0y0Zl7H1R4/source.gif" width="60px">
 
 <a href="https://www.linkedin.com/in/anthonyperniah/">
   <img align="center" alt="Anthony Pernia | Linkedin" width="22px" 
