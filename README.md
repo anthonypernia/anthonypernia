@@ -18,9 +18,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anthonypernah.anthonyperniah)
 </div>
-<br/>
 
-I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught developer and a Data Architect. 
-I am passionate about building things with code that were previously considered impossible. 
+I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer,  Data Architect, and Cloud Computing Enthusiast.
+I am passionate about building things with code that were previously considered impossible.
 Also always try to learn new things always and share them with the Open Source community, as I have learned a lot from them.
-
+<br>
+- 🤓 Ask me anything, if I don't know, and I can, we will investigate together.
+- 📫 How to reach me: [@AnthonyPerniaH](https://twitter.com/AnthonyPerniaH) .
+- 📝 [My Resume](https://drive.google.com/file/d/1OmAmFQElHuF87xiKFvoGVZUWVRyVRLTX/view) .
