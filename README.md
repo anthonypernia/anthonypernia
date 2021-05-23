@@ -15,14 +15,31 @@
 <a href="https://anthonyperniah.github.io/">
   <img align="center" alt="Anthony Pernia | Portfolio" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/blog.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=anthonypernah.anthonyperniah)
 </div>
 
-I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer,  Data Architect, and Cloud Computing Enthusiast.
+<br>
+
+I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer, Data Architect, and Cloud Computing Enthusiast.
 I am passionate about building things with code that were previously considered impossible.
 Also always try to learn new things always and share them with the Open Source community, as I have learned a lot from them.
 <br>
+
 - 🤓 Ask me anything, if I don't know, and I can, we will investigate together.
 - 📫 How to reach me: [@AnthonyPerniaH](https://twitter.com/AnthonyPerniaH) .
 - 📝 [My Resume](https://drive.google.com/file/d/1OmAmFQElHuF87xiKFvoGVZUWVRyVRLTX/view) .
+
+<br>
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/anthonyperniah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=anthonypernah.anthonyperniah)
+
+</div>
+
+<hr>
+<p align="center">
+  <i>If you have any suggestions to this README, feel free to pull up a request. </i>
+    <i>And if you liked it, go ahead and use it for yourself.
+(Click on Star before 🏆) </i>
+</p>
