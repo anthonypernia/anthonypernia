@@ -26,7 +26,7 @@ Also always try to learn new things always and share them with the Open Source c
 
 - 🤓 Ask me anything, if I don't know, and I can, we will investigate together.
 - 📫 How to reach me: [@AnthonyPerniaH](https://twitter.com/AnthonyPerniaH) .
-- 📝 [My Resume](https://drive.google.com/file/d/1OmAmFQElHuF87xiKFvoGVZUWVRyVRLTX/view) .
+- 📝 [My resume](https://drive.google.com/file/d/1OmAmFQElHuF87xiKFvoGVZUWVRyVRLTX/view) , but better let's talk on [Linkedin](https://www.linkedin.com/in/anthonypernia/)
 
 <br>
 <div align="center">
