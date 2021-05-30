@@ -6,17 +6,17 @@
 <h3 style="font-family: 'Roboto'; font-weight: 100;" , sans-serif;>Welcome!</h3> 
 
 
-<a href="https://www.linkedin.com/in/anthonyperniah/">
+<a href="https://www.linkedin.com/in/anthonyperniah/" target="_blank">
   <img align="center" alt="Anthony Pernia | Linkedin" width="22px" 
   style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/AnthonyPerniaH">
+<a href="https://twitter.com/AnthonyPerniaH" target="_blank">
   <img align="center" alt="Anthony Pernia | Twitter" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/anthonyperniah/">
+<a href="https://www.instagram.com/anthonyperniah/" target="_blank">
   <img align="center" alt="Anthony Pernia | Instagram" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/instagram.svg" />
 </a>
-<a href="https://anthonyperniah.github.io/">
+<a href="https://anthonyperniah.github.io/" target="_blank">
   <img align="center" alt="Anthony Pernia | Portfolio" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/blog.svg" />
 </a>
 </div>
