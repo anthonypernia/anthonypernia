@@ -35,7 +35,7 @@ Also always try to learn new things always and share them with the Open Source c
 <br>
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/anthonyperniah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://cafecito.app/anthonyperniah" target="_blank"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" alt="Buy Me A Coffee" width="150" ></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anthonypernah.anthonyperniah)
 
