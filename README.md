@@ -25,7 +25,7 @@
 
 I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer, Data Architect, and Cloud Computing Enthusiast.
 I am passionate about building things with code that were previously considered impossible.
-Also always try to learn new things always and share them with the Open Source community, as I have learned a lot from them.
+Also always try to learn new things always and share them with the developer community, as I have learned a lot from them.
 <br>
 
 - 🤓 Ask me anything, if I don't know, and I can, we will investigate together.
@@ -34,16 +34,14 @@ Also always try to learn new things always and share them with the Open Source c
 
 <br>
 <div align="center">
+<br><br><br>
+If you want, click on this image, to buy me a coffe 
 
-<a href="https://cafecito.app/anthonyperniah" target="_blank"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://cafecito.app/anthonyperniah" target="_blank"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" alt="Buy Me A Coffee" width="50" /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anthonypernah.anthonyperniah)
 
 </div>
 
 <hr>
-<p align="center">
-  <i>If you have any suggestions to this README, feel free to pull up a request. </i>
-    <i>And if you liked it, go ahead and use it for yourself.
-(Click on Star before 🏆) </i>
-</p>
+
