@@ -23,7 +23,7 @@
 
 <br>
 
-I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer, Data Architect, and Cloud Computing Enthusiast.
+I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer, Data Engineer, and Cloud Computing Enthusiast.
 I am passionate about building things with code that were previously considered impossible.
 Also always try to learn new things always and share them with the developer community, as I have learned a lot from them.
 <br>
