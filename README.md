@@ -6,7 +6,7 @@
 <h3 style="font-family: 'Roboto'; font-weight: 100;" , sans-serif;>Welcome!</h3> 
 
 
-<a href="https://www.linkedin.com/in/anthonyperniah/" target="_blank">
+<a href="https://www.linkedin.com/in/anthonypernia/" target="_blank">
   <img align="center" alt="Anthony Pernia | Linkedin" width="22px" 
   style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/linkedin.svg" />
 </a>
