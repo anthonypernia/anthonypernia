@@ -23,18 +23,19 @@
 
 <br>
 
-I'm [Anthony Pernia](https://anthonypernia.com/), a passionate self-taught Developer, Data Engineer, and Cloud Computing Enthusiast.
-I am passionate about building things with code that were previously considered impossible.
-Also always try to learn new things always and share them with the developer community, as I have learned a lot from them.
-<br>
+I'm [Anthony Pernia](https://anthonypernia.com/), a developer, data engineer, and cloud computing enthusiast.
+I am passionate about building things that were previously considered impossible.
+I always try to learn new things and share them with the community
 
-- 🤓 Ask me anything, if I don't know, and I can, we will investigate together.
-- 📫 How to reach me: [@AnthonyPerniaH](https://twitter.com/AnthonyPerniaH) .
-- 📝 Let's talk on [Linkedin](https://www.linkedin.com/in/anthonypernia/)
+💬 Get in touch:
+- Twitter [@AnthonyPerniaH](https://twitter.com/AnthonyPerniaH) 
+- Linkedin [Linkedin](https://www.linkedin.com/in/anthonypernia/)
+- Instagram [@AnthonyPerniaH](https://www.instagram.com/anthonyperniah) 
+- If you want, ask me anything, if I don't know and I can, we will investigate together 🤓
 
 <br>
 <div align="center">
-<br><br><br>
+<br>
 If you want, click on this image, to buy me a coffe 
 
 <a href="https://cafecito.app/anthonyperniah" target="_blank"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" alt="Buy Me A Coffee" width="50" /></a>
