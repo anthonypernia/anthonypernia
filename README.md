@@ -17,13 +17,13 @@
   <img align="center" alt="Anthony Pernia | Instagram" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/instagram.svg" />
 </a>
 <a href="https://anthonyperniah.github.io/" target="_blank">
-  <img align="center" alt="Anthony Pernia | Portfolio" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/blog.svg" />
+  <img align="center" alt="Anthony Pernia | Portfolio" width="22px" style="padding:5px" src="https://raw.githubusercontent.com/anthonyperniah/anthonyperniah/master/assets/blog.png" />
 </a>
 </div>
 
 <br>
 
-I'm [Anthony Pernia](https://anthonyperniah.github.io/), a passionate self-taught Developer, Data Engineer, and Cloud Computing Enthusiast.
+I'm [Anthony Pernia](https://anthonypernia.com/), a passionate self-taught Developer, Data Engineer, and Cloud Computing Enthusiast.
 I am passionate about building things with code that were previously considered impossible.
 Also always try to learn new things always and share them with the developer community, as I have learned a lot from them.
 <br>
