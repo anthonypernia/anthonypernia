@@ -26,6 +26,7 @@
 I'm [Anthony Pernia](https://anthonypernia.com/), a developer, data engineer, and cloud computing enthusiast.
 I am passionate about building things that were previously considered impossible.
 I always try to learn new things and share them with the community
+<br/>
 
 💬 Get in touch:
 - Twitter [@AnthonyPerniaH](https://twitter.com/AnthonyPerniaH) 
