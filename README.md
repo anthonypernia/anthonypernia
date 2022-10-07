@@ -11,7 +11,7 @@
 <p>I always try to learn new things and try to share my code with the community.</p>
 
 <br/>
-<h2>To get in touch 💬:</h2>
+<h3>To get in touch 💬:</h3>
 <ul>
 <li>Twitter <a href="https://twitter.com/AnthonyPerniaH">@AnthonyPerniaH</a></li>
 <li>Linkedin <a href="https://www.linkedin.com/in/anthonypernia/">AnthonyPernia</a></li>
