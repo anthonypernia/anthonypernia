@@ -11,11 +11,11 @@
 <figcaption>Raspberry Pi 4, Arduino Nano, Arduino Mega</figcaption>
 </figure>
 </div>
-<p>And I'm also a fan of coffee and so I'm always trying to have a good caffee</p>
+<p>And I'm also a fan of coffee and so I'm always trying to have a good coffee</p>
 <div>
 <figure>
 <img src="https://raw.githubusercontent.com/anthonypernia/anthonypernia/main/img_preview/coffee1.jpeg" alt="Coffee">
-<figcaption>Coffee.</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 <br/>
