@@ -5,6 +5,9 @@
 <p>I am an electronic engineer, passionate about software development and currently focused on Big data, working as a Data Engineer/Data Architect.</p>
 <p>In my experience, I have had the opportunity to work with many areas and work with backend and infrastructure tools in on-premise and cloud environments, which has given me a comprehensive view of the processes.</p>
 <p>I love the idea of building things with software, and even more so if they were considered impossible before, that's the reason why I always try to learn new things and share my knowledge and my code with the community.</p>
+<p>In my free time I like to experiment with hardware using Arduino or Raspberry Pi.</p>
+<img src="https://raw.githubusercontent.com/anthonypernia/anthonypernia/main/img_preview/hardware1.png" alt="">
+
 
 <br/>
 <h3>Get in touch:</h3>
