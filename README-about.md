@@ -16,8 +16,8 @@
 <h3>Get in touch:</h3>
 <ul>
 <li>The easiest way to contact me to talk about technology or other topics is Twitter <a target="_blank" rel="noreferrer" href="https://twitter.com/AnthonyPerniaH">@AnthonyPerniaH</a> 💬</li>
-<li>Linkedin <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anthonypernia/">AnthonyPernia</a> 👨🏽‍💻</li>
-<li>Instagram <a target="_blank" rel="noreferrer" href="https://www.instagram.com/anthonyperniah/">@AnthonyPerniaH 📷</a></li>
+<li>We could also connect on Linkedin <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anthonypernia/">AnthonyPernia</a> 👨🏽‍💻</li>
+<li>Or I show a little bit of my life on Instagram <a target="_blank" rel="noreferrer" href="https://www.instagram.com/anthonyperniah/">@AnthonyPerniaH 📷</a></li>
 <li>You can ask me anything, if I don't know and I can, we'll investigate it together. 🤓</li>
 </ul>
 <br>
