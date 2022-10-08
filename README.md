@@ -7,11 +7,11 @@
 <p>I love the idea of building things with software, and even more so if they were considered impossible before, that's the reason why I always try to learn new things and share my knowledge and my code with the community.</p>
 
 <br/>
-<h3>To get in touch 💬:</h3>
+<h3>To get in touch:</h3>
 <ul>
-<li>Twitter <a target="_blank" rel="noreferrer" href="https://twitter.com/AnthonyPerniaH">@AnthonyPerniaH</a></li>
-<li>Linkedin <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anthonypernia/">AnthonyPernia</a></li>
-<li>Instagram <a target="_blank" rel="noreferrer" href="https://www.instagram.com/anthonyperniah/">@AnthonyPerniaH</a></li>
+<li>Twitter <a target="_blank" rel="noreferrer" href="https://twitter.com/AnthonyPerniaH">@AnthonyPerniaH</a> 💬</li>
+<li>Linkedin <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/anthonypernia/">AnthonyPernia</a> 👨🏽‍💻</li>
+<li>Instagram <a target="_blank" rel="noreferrer" href="https://www.instagram.com/anthonyperniah/">@AnthonyPerniaH 📷</a></li>
 <li>You can ask me anything, if I don't know and I can, we'll investigate it together. 🤓</li>
 </ul>
 <br>
