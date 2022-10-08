@@ -1,6 +1,5 @@
-<div>
+
 <h1>Hi! 👋</h1> 
-</div>
 
 <p>I am Anthony Pernia, electronic engineer, passionate about software development and currently focused on Big data, working as a Data Engineer/Data Architect.</p>
 <p>In my experience, I have had the opportunity to work with many areas and work with backend and infrastructure tools in on-premise and cloud environments, which has given me a comprehensive view of the processes.</p>
