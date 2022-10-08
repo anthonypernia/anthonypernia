@@ -6,11 +6,17 @@
 <p>I love the idea of building things with software, and even more so if they were considered impossible before, that's the reason why I always try to learn new things and share my knowledge and my code with the community.</p>
 <p>In my free time, I like to experiment with hardware using tools like Arduino or Raspberry Pi, using them with different types of sensors to test temperature, movement, etc, or just emulate a remote server with RaspberryPi.</p>
 <div>
-<img src="https://raw.githubusercontent.com/anthonypernia/anthonypernia/main/img_preview/hardware1.png" alt="">
+<figure>
+<img src="https://raw.githubusercontent.com/anthonypernia/anthonypernia/main/img_preview/hardware1.png" alt="Raspberry Pi 4, Arduino Nano, Arduino Mega">
+<figcaption>Raspberry Pi 4, Arduino Nano, Arduino Mega</figcaption>
+</figure>
 </div>
 <p>And I'm also a fan of coffee and so I'm always trying to have a good caffee</p>
 <div>
-<img src="https://raw.githubusercontent.com/anthonypernia/anthonypernia/main/img_preview/coffee1.jpeg" alt="">
+<figure>
+<img src="https://raw.githubusercontent.com/anthonypernia/anthonypernia/main/img_preview/coffee1.jpeg" alt="Coffee">
+<figcaption>Coffee.</figcaption>
+</figure>
 </div>
 <br/>
 <h3>Get in touch:</h3>
