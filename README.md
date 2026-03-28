@@ -1,6 +1,6 @@
 # Hey, I'm Anthony 👋
 
-Data Engineer & Architect  
+Data Engineer  
 Electronic Engineer turned data person, I've worked across backend, infrastructure, and cloud,
 which gives me a broader view of how data systems actually fit into production.
 
